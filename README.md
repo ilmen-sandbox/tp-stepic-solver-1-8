@@ -10,8 +10,8 @@
 ### GIT - как создавать пустые папки в репозитории
 По умолчанию GitHub не позволяет создавать пустые папки, но можно положить в крайние пустые папки файл *.gitignore*  
 с содержимым:  
-> # Ignore everything in this directory  
-> # Except this file  
+> \# Ignore everything in this directory  
+> \# Except this file  
 > !.gitignore  
 
 ### Ссылки
