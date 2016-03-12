@@ -6,4 +6,6 @@
 **cd /home/box/web/** 
 **bash init.sh**
 
+[Подробнее о использовании GitHub для stepic.org] (https://github.com/ilmen/tp-stepic-solver-1-8/blob/master/how_use_github_with_stepic.pdf)
+
 [Troubleshooting](https://github.com/ilmen/tp-stepic-solver-1-8/blob/master/Troubleshooting.txt)
