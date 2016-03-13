@@ -9,7 +9,7 @@
 > !.gitignore  
 
 ### Как сдавать
-Для его сдачи необходимо в консоле терминала (на сайте stepic.org) написать:  
+Для его сдачи необходимо в консоли терминала (на сайте stepic.org) написать:  
 > git clone https://github.com/ilmen/tp-stepic-solver-1-8.git /home/box/web/  
 > cd /home/box/web/  
 > bash init.sh
